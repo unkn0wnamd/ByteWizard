@@ -1,5 +1,5 @@
 # Byte Wizard 🧙
-![image](https://user-images.githubusercontent.com/58490288/193213111-041e3304-33e7-4a3e-8997-4c9660d4a52b.png)
+![image](https://github.com/unkn0wnamd/ByteWizard/blob/5fa3264a53315c421c929d205c532165a1869047/run.gif)
 
 Our goal is to make a tool that changes the files signatures AKA (Magic Bytes) to help pentesters in bypassing file upload security functions.
 
@@ -10,14 +10,24 @@ Our goal is to make a tool that changes the files signatures AKA (Magic Bytes) t
 
 ## Installation:
 
-![](https://github.com/unkn0wnamd/ByteWizard/blob/971c72543579aac05a4446ce925d6bba87f7cc0a/setup.gif)
+![setup GIF](https://github.com/unkn0wnamd/ByteWizard/blob/971c72543579aac05a4446ce925d6bba87f7cc0a/setup.gif)
 ```
 git clone https://github.com/z5jt/ByteWizard.git
 cd ByteWizard
 pip3 install -r requirements.txt
 python3 ByteWizard.py
 ```
+##Usage:
+![run GIF](https://github.com/unkn0wnamd/ByteWizard/blob/2f1853fc8678dc3989eddf70f91d0bc099006399/run.gif)
+```
+python3 bytewizard.py
+1- Choose a filetype from the list.
+   1- PDF   2- MP3 (audio)   3- jpg    4- pcapng
+   5- GIF   6- tar           7- Word/Office
+2- Enter absolute path of the file that you want to convert.
 
+CONGRATZ!!
+```
 ## v1.0:
 -
 -
