@@ -45,6 +45,8 @@ CONGRATZ!!
 
 ### ㅤ**للمجد قادمون**
 
-### For any suggestions or modification don't hesitate to contact me: Ahmadbahkali1@gmail.com
+**For any suggestions or modification don't hesitate to contact me: **
+[Ahmadbahkali1@gmail.com](mailto:Ahmadbahkali1@gmail.com?subject=[GitHub]%20ByteWizard)
+
 #### Disclaimer
 Usage of ~sqlmap~ **Byte Wizard** for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
