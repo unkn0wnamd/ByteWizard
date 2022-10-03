@@ -15,7 +15,7 @@ Our tool _ByteWizard_ changes the file signatures AKA (Magic Bytes) to help pent
 git clone https://github.com/z5jt/ByteWizard.git
 cd ByteWizard
 pip3 install -r requirements.txt
-python3 ByteWizard.py
+python3 byteWizard.py
 ```
 ## Usage:
 
