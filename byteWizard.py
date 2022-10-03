@@ -58,7 +58,7 @@ def file_header(filename, filetype):
 def file_changer():
     print("""Select the filetype that you want to convert to:
     1- PDF   2- MP3 (audio)   3- jpg    4- pcapng
-    5- GIF   6- tar           7- Word-Office
+    5- GIF   6- tar           7- Word/Office
     
               
     Insert q to Quit 
@@ -115,8 +115,6 @@ def file_changer():
         print(err)
         return file_changer()
 
-
-# ADD METADATA FUNCTION HERE
 
 banner()
 try:
