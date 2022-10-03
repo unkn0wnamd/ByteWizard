@@ -8,24 +8,21 @@ Our goal is to make a tool that changes the files signatures AKA (Magic Bytes) t
 - Mohammed Aljayzani [@z5jt4](https://twitter.com/z5jt4)
 - Yousef Alfuhaid [@Pho1yalfuhaid](https://twitter.com/Pho1yalfuhaid)
 
-## installing the tool:
+## installation:
+
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 ```
 git clone https://github.com/z5jt/ByteWizard.git
 cd ByteWizard
 pip3 install -r requirements.txt
 python3 ByteWizard.py
 ```
+
 ## v1.0:
+-
+-
+-
 
-### Note (Next Step):
-- Metadata changer 
-
-
-
-### v1.2:
-Soon..
-
-- PHP shell code injection in files. 
 
 للمجد قادمون
 
