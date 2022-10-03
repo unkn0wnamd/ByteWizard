@@ -1,5 +1,5 @@
 # Byte Wizard 🧙
-![image](https://github.com/unkn0wnamd/ByteWizard/blob/5fa3264a53315c421c929d205c532165a1869047/run.gif)
+![image](https://github.com/unkn0wnamd/ByteWizard/blob/281462eb6dced07cda31d6c63fa778a979d828a6/ByteWizard.png)
 
 Our goal is to make a tool that changes the files signatures AKA (Magic Bytes) to help pentesters in bypassing file upload security functions.
 
