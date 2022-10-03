@@ -45,7 +45,7 @@ CONGRATZ!!
 
 ### ㅤ**للمجد قادمون**
 
-** For any suggestions or modification don't hesitate to contact me: **
+**For any suggestions or modification don't hesitate to contact me:**
 [Ahmadbahkali1@gmail.com](mailto:Ahmadbahkali1@gmail.com?subject=[GitHub]%20ByteWizard)
 
 #### Disclaimer
