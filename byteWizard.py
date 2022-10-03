@@ -8,16 +8,16 @@ from termcolor import colored
 def banner():
     print(""" 
                              .
-                           .
+                           .    GIF
                     /^\     .
                /\   "V"
-              /__\   I      O  o
+              /__\   I      PDF  o
              //..\\\  I     .
              \].`[/  I
-             /l\/j\  (]    .  O
-            /. ~~ ,\/I          .
-            \\L__j^\//I       o
-             \/--v}  I     o   .
+             /l\/j\  (]    .  docx
+            /. ~~ ,\/I     o    .
+            \\L__j^\//I       mp4
+             \/--v}  I     jpg   .
              |    |  I   _________
              |    |  I c(`       ')o
              |    l  I   \.     ,/
