@@ -18,6 +18,7 @@ pip3 install -r requirements.txt
 python3 ByteWizard.py
 ```
 ##Usage:
+
 ![run GIF](https://github.com/unkn0wnamd/ByteWizard/blob/2f1853fc8678dc3989eddf70f91d0bc099006399/run.gif)
 ```
 python3 bytewizard.py
