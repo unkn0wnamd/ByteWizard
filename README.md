@@ -10,7 +10,7 @@ Our goal is to make a tool that changes the files signatures AKA (Magic Bytes) t
 
 ## installation:
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/unkn0wnamd/setup.gif)
 ```
 git clone https://github.com/z5jt/ByteWizard.git
 cd ByteWizard
