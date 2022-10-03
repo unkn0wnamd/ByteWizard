@@ -1,7 +1,7 @@
 # Byte Wizard 🧙
 ![image](https://github.com/unkn0wnamd/ByteWizard/blob/281462eb6dced07cda31d6c63fa778a979d828a6/ByteWizard.png)
 
-Our goal is to make a tool that changes the files signatures AKA (Magic Bytes) to help pentesters in bypassing file upload security functions.
+Our tool _ByteWizard_ changes the file signatures AKA (Magic Bytes) to help pentesters/CTF players in evading/bypassing file upload security functions.
 
 ## Authors:
 - Ahmad Bahkali [@unknownamd_](https://twitter.com/unknownamd_)
@@ -31,13 +31,19 @@ python3 bytewizard.py
 
 CONGRATZ!!
 ```
+
 ## v1.0:
--
--
--
+- Change file signature (magic bytes) of any type of files.
+- Available formats:
+   - PDF
+   - MP3 (Audio)
+   - JPG
+   - pcapng
+   - GIF
+   - tar
+   - .docx, .pptx, etc.. /Office
 
-
-للمجد قادمون
+                                                                               للمجد قادمون
 
 #### Disclaimer
 Usage of ~sqlmap~ **Byte Wizard** for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
