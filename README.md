@@ -27,6 +27,8 @@ python3 bytewizard.py
    5- GIF   6- tar           7- Word/Office
 2- Enter absolute path of the file that you want to convert.
 
+✔ Your file <FILENAME> type have been changed successfully by Byte Wizard.
+
 CONGRATZ!!
 ```
 ## v1.0:
