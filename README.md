@@ -8,9 +8,9 @@ Our goal is to make a tool that changes the files signatures AKA (Magic Bytes) t
 - Mohammed Aljayzani [@z5jt4](https://twitter.com/z5jt4)
 - Yousef Alfuhaid [@Pho1yalfuhaid](https://twitter.com/Pho1yalfuhaid)
 
-## installation:
+## Installation:
 
-![](https://github.com/unkn0wnamd/setup.gif)
+![](https://github.com/unkn0wnamd/ByteWizard/blob/971c72543579aac05a4446ce925d6bba87f7cc0a/setup.gif)
 ```
 git clone https://github.com/z5jt/ByteWizard.git
 cd ByteWizard
