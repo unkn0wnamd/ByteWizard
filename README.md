@@ -12,7 +12,7 @@ Our tool _ByteWizard_ changes the file signatures AKA (Magic Bytes) to help pent
 
 ![setup GIF](https://github.com/unkn0wnamd/ByteWizard/blob/971c72543579aac05a4446ce925d6bba87f7cc0a/setup.gif)
 ```
-git clone https://github.com/z5jt/ByteWizard.git
+git clone https://github.com/unkn0wnamd/ByteWizard.git
 cd ByteWizard
 pip3 install -r requirements.txt
 python3 byteWizard.py
